@@ -58,16 +58,6 @@ BinarySearch(arr, 3, len(arr)-1)
 
 
 
-
-
-
-
-
-
-
-
-
-
 ## How It Works
 
 - This algorithm works by eliminating half of the dataset for each check it does
