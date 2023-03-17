@@ -37,7 +37,7 @@ Strings are multiple Characters **"Stringed"** together, such as "Hello", "1234"
 
 # Abstract Datatypes
 
-- Abstract Datatypes are **User Defined Datatypes**, or in other words, are not provided to you by the language you are writing in
+- Abstract Datatypes are **User Defined Datatypes**, or in other words, are not provided to you by the language you are writing in (Those are called [[1- Arrays, Lists, Tuples, Records, Dictionaries|Primitve Data Structures]])
 	- For example, if you are writing a [[2- Stacks|Stack]] in an **Object Oriented** fashion, then you might want to have each piece of data held inside of a "Node".
 		- This "Node" is not an actual datatype, but by writing a class and giving it Initial values, you have essentially created your own Datatype.
 		> See [[2- Stacks|Stacks]], [[3- Queues|Queues]], [[4- Linked Lists||Linked Lists]], [[5- Binary Trees||Binary Trees]], and  [[6- Graphs|Graphs]] to see how we can use Abstract Datatypes to form Abstract Data Structures.
