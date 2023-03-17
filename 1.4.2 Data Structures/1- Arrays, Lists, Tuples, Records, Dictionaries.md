@@ -9,7 +9,7 @@ See [[7- Hash Tables (Theory)|Hash Tables]] as dictionaries are derived from the
 
 ## Lists
 
-
+A list
 
 
 
