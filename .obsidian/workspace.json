@@ -47,8 +47,12 @@
             "id": "7333b79f870b398e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.4.1 Data Types/0- Data Types - Introduction.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.4.1 Data Types/0- Data Types - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.4.1 Data Types/0- Data Types - Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.4.1 Data Types/0- Data Types - Introduction.md"
+              }
             }
           },
           {
