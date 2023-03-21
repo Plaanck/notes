@@ -38,9 +38,6 @@ def Peek(stack=stack):
     print(stack[-1])
 
 
-Object Oriented Code-
-
 ```
 
 
-```
