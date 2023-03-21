@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "path:\"2.2 Problem Solving and Programming\"",
+      "color": {
+        "a": 1,
+        "rgb": 28415
+      }
     }
   ],
   "collapse-display": true,
@@ -40,5 +47,5 @@
   "linkStrength": 0.270833333333333,
   "linkDistance": 243,
   "scale": 0.45050811767578364,
-  "close": true
+  "close": false
 }
