@@ -61,7 +61,8 @@ BinarySearch(arr, 3, len(arr)-1)
 ## How It Works
 
 - This algorithm works by eliminating half of the dataset for each check it does
->	This Makes it Very efficient in Large datasets, See [[2- Binary Search#Efficiency]]
+>	This Makes it Very efficient in Large datasets, See [[2- Binary Search#Efficiency|Efficiency]]
+>	This algorithm uses a [[Features Of a Problem#Divide and Conquer|Divide and Conquer]] approach to solving the problem
 - Essentially, what it is doing is:
 	1. Find the midpoint of the list, and make the upper bound one less than the length of the list, and the lower bound 0.
 	2. Then see if the midpoint is smaller than, less than or equal to the desired number

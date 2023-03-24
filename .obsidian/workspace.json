@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.2 Problem Solving and Programming/Features Of a Problem.md",
+                "file": "2.3 Algorithms/2- Binary Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8282a2b07ae69d86",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.2 Problem Solving and Programming/Features Of a Problem.md",
+                "file": "2.3 Algorithms/2- Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.2 Problem Solving and Programming/Features Of a Problem.md",
+                "file": "2.3 Algorithms/2- Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.2 Problem Solving and Programming/Features Of a Problem.md"
+                "file": "2.3 Algorithms/2- Binary Search.md"
               }
             }
           },
@@ -204,12 +205,13 @@
   "active": "d5ed42abfe4e2865",
   "lastOpenFiles": [
     "2.2 Problem Solving and Programming/Features Of a Problem.md",
+    "2.3 Algorithms/2- Binary Search.md",
+    "1.4.2 Data Structures/7- Hash Tables (Theory).md",
     "1.4.2 Data Structures/6- Graphs.md",
     "2.2 Problem Solving and Programming",
     "1.4.1 Data Types/0- Data Types - Introduction.md",
     "1.4.2 Data Structures/2- Stacks.md",
     "1.4.2 Data Structures/1- Arrays, Lists, Tuples, Records, Dictionaries.md",
-    "2.3 Algorithms/2- Binary Search.md",
     "README.md",
     "2.3 Algorithms/(Extra) Hash Table (Coding).md",
     "2.3 Algorithms/3- Bubble Sort.md",
@@ -217,7 +219,6 @@
     "2.3 Algorithms/5- Merge Sort.md",
     "2.3 Algorithms/9- Big-O-Notation.md",
     "2.3 Algorithms/1- Linear Search.md",
-    "1.4.2 Data Structures/7- Hash Tables (Theory).md",
     "2.3 Algorithms/6- Quicksort.md",
     "2.3 Algorithms/7- Dijkstra's.md",
     "2.3 Algorithms/8- Astar Algorithm.md",

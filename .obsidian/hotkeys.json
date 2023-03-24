@@ -1,1 +1,27 @@
-{}
+{
+  "obsidian-languagetool-plugin:ltaccept-suggestion-1": [],
+  "obsidian-languagetool-plugin:ltcheck-text": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "obsidian-languagetool-plugin:ltclear": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "obsidian-languagetool-plugin:ltjump-to-next-suggestion": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "obsidian-languagetool-plugin:ltautocheck-text": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ]
+}
