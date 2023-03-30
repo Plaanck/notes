@@ -47,20 +47,20 @@
             "id": "7333b79f870b398e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d5ed42abfe4e2865",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "2.3 Algorithms/2- Binary Search.md",
+                "file": "2.2 Problem Solving and Programming/Features Of a Problem.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "b28e9ee753ba9b89",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "8282a2b07ae69d86",
@@ -131,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.3 Algorithms/2- Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.3 Algorithms/2- Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2.3 Algorithms/2- Binary Search.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,10 +197,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "d5ed42abfe4e2865",
+  "active": "b28e9ee753ba9b89",
   "lastOpenFiles": [
     "2.2 Problem Solving and Programming/Features Of a Problem.md",
+    "1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
+    "1.1 CPU, IO Devices, Storage",
+    "2.3 Algorithms/9- Big-O-Notation.md",
+    "2.3 Algorithms/(Extra) Hash Table (Coding).md",
+    "2.3 Algorithms/8- Astar Algorithm.md",
     "2.3 Algorithms/2- Binary Search.md",
+    "2023-03-27.md",
+    "Untitled.canvas",
     "1.4.2 Data Structures/7- Hash Tables (Theory).md",
     "1.4.2 Data Structures/6- Graphs.md",
     "2.2 Problem Solving and Programming",
@@ -213,25 +215,18 @@
     "1.4.2 Data Structures/2- Stacks.md",
     "1.4.2 Data Structures/1- Arrays, Lists, Tuples, Records, Dictionaries.md",
     "README.md",
-    "2.3 Algorithms/(Extra) Hash Table (Coding).md",
     "2.3 Algorithms/3- Bubble Sort.md",
     "2.3 Algorithms/4- Insertion Sort.md",
     "2.3 Algorithms/5- Merge Sort.md",
-    "2.3 Algorithms/9- Big-O-Notation.md",
     "2.3 Algorithms/1- Linear Search.md",
     "2.3 Algorithms/6- Quicksort.md",
     "2.3 Algorithms/7- Dijkstra's.md",
-    "2.3 Algorithms/8- Astar Algorithm.md",
     "1.4.1 Data Types/2- Sign+Magnitude 2's Complement.md",
     "1.4.2 Data Structures/3- Queues.md",
     "1.4.1 Data Types/4- Floating Point and Normalisation.md",
     "1.4.2 Data Structures/4- Linked Lists.md",
     "1.4.2 Data Structures/5- Binary Trees.md",
     "1.4.1 Data Types/7- Characters.md",
-    "1.4.1 Data Types/6- Bitwise Manipulation.md",
-    "1.4.1 Data Types/5- Floating Point Arithmetic.md",
-    "1.4.1 Data Types/3- Addition and Subtraction.md",
-    "Untitled.canvas",
     "Pasted image 20230303104323.png",
     "2.3 Algorithms",
     "1.4.1 Data Types",

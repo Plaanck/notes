@@ -34,18 +34,25 @@
         "a": 1,
         "rgb": 28415
       }
+    },
+    {
+      "query": "path:\"1.1 CPU, IO Devices, Storage\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 0.2,
+  "nodeSizeMultiplier": 1.22291666666667,
+  "lineSizeMultiplier": 1.01875,
   "collapse-forces": false,
-  "centerStrength": 0.291666666666667,
+  "centerStrength": 0.09375,
   "repelStrength": 8.85416666666667,
   "linkStrength": 0.270833333333333,
   "linkDistance": 243,
-  "scale": 0.11660891579457408,
+  "scale": 0.16348370567220655,
   "close": false
 }

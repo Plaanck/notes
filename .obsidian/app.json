@@ -1,3 +1,8 @@
 {
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "maths",
+    "Pipelining"
+  ]
 }

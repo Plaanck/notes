@@ -35,8 +35,7 @@
 	3) Based on the outcome, discard unmatching data
 	4) Repeat until desired result
 
->	This is seen well in the [[2- Binary Search|Binary Search]]
-
+	This is seen well in the [[2- Binary Search|Binary Search]]
 
 ## Abstraction
 
@@ -48,13 +47,39 @@
 
 - This is the process of incrementally building to solving an issue, and giving up on attempts that will not solve the issue, and returning to a state where it worked
 	- This is not a suitable approach to all problems, but problems such as pathfinding use backtracking particularly well, especially in depth first searches
-	>	See [[8- Astar Algorithm|A* Algorithm]]: Showing how backtracking can be used, as well as [[5- Binary Trees|Binary Tree]] For depth first search.
+		See [[8- Astar Algorithm|A* Algorithm]]: Showing how backtracking can be used, as well as [[5- Binary Trees|Binary Tree]] For depth first search.
 
 ## Data Mining
 
 - Data mining is the concept of analyzing large amounts of data from all across the internet to discover trends and more information about the topic
 	- This is associated with the concept of Big Data (extremely large datasets)
 
-- Data mining  
+- Data mining is seen in applications such as:
+	- Weather modelling
+	- Business and economics
+	- Stocks
+	- Science and engineering
+	- Medical research
+	- Law enforcement
 
+## Heuristics
+
+- Heuristics are at it's core just using estimation and experience to get a solution to a problem that is "good enough"
+- They are pretty much just educated guesses based on some previous data or some set of rules
+	This is seen in the [[8- Astar Algorithm|A* Algorithm]]
+
+## Performance Modelling
+
+- The process of approximating how well models perform using maths.
+	- This uses simulation and approximation rather than detailed testing, as that would be very inefficient in terms of time and cost - (See: [[9- Big-O-Notation|Big O Notation]]) 
+
+- You can do exhaustive testing, e.g. to check a cloud server ad full capacity by sending millions of requests. Or you could monitor how it handles smaller user bases, and use modelling to estimate how it would perform under high stress
+	- This is often done in game development of multiplayer games during beta testing.
+		- They can limit the servers to a smaller user base, and use performance modelling to calculate if the servers will be able to handle the full player base
+
+
+## Pipelining
+
+- Splitting a large task into manageable chunks and overlapping them to speed up the overall process
+	- E.G. In the [[1.2 - Fetch Decode Execute Cycle|Fetch Decode Execute Cycle]], one core could be fetching an instruction while other cores are either decoding or executing
 
