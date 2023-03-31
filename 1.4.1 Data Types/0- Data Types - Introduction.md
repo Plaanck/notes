@@ -19,6 +19,7 @@ Float, or Floating Point, are Decimal numbers, such as 3.14, 1412.123, and 1.00
 ### Bool
 
 Bool, or Boolean, is True or False
+	Linked with Binary, which is just 1 or 0 [[1- Number Systems#Binary|Binary]]
 
 
 ### Char
