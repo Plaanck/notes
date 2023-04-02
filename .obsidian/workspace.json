@@ -1,76 +1,60 @@
 {
   "main": {
-    "id": "befab36abf46136b",
+    "id": "dd5b36e45548a960",
     "type": "split",
     "children": [
       {
-        "id": "0d0be4ba19678388",
+        "id": "54c23913dcc67ebb",
         "type": "tabs",
         "children": [
           {
-            "id": "e639395de0dbe24d",
+            "id": "7053544266762829",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.3 Algorithms/9- Big-O-Notation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
             }
           },
           {
-            "id": "f9362b21d009e6e5",
+            "id": "118d5b43ad10e28d",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.4.2 Data Structures/7- Hash Tables (Theory).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
             }
           },
           {
-            "id": "f3fd12840da7dc79",
+            "id": "b9c3bda604781815",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.4.2 Data Structures/2- Stacks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7333b79f870b398e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "2.2 Problem Solving and Programming/Features Of a Problem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9dc163582e0c2d9a",
+    "id": "3dc0df66dc147d8e",
     "type": "split",
     "children": [
       {
-        "id": "d43bf6f21269d054",
+        "id": "48c8dc3aa0fbfc68",
         "type": "tabs",
         "children": [
           {
-            "id": "e771b002529108ab",
+            "id": "87000673230a5f1d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +64,7 @@
             }
           },
           {
-            "id": "501eb441a4b46044",
+            "id": "2f850fe250b9beed",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +79,7 @@
             }
           },
           {
-            "id": "71353856a70cd11e",
+            "id": "d6f33c72b02fe6ea",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -109,20 +93,20 @@
     "width": 300
   },
   "right": {
-    "id": "8282a2b07ae69d86",
+    "id": "039c303ccbec9cc4",
     "type": "split",
     "children": [
       {
-        "id": "87b8cc8213eed2f8",
+        "id": "b87cd298f13c086d",
         "type": "tabs",
         "children": [
           {
-            "id": "3136a8a7c36b3438",
+            "id": "d9be4407fd209ba6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2.2 Problem Solving and Programming/Features Of a Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,19 +118,19 @@
             }
           },
           {
-            "id": "dea19ca591b34425",
+            "id": "1802a298baa18cf2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2.2 Problem Solving and Programming/Features Of a Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a618231641c5b3ef",
+            "id": "94ca12bd7174f27c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,29 +141,20 @@
             }
           },
           {
-            "id": "23c5c8359a3dee43",
+            "id": "701df37bc1b66b17",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2.2 Problem Solving and Programming/Features Of a Problem.md"
               }
             }
-          },
-          {
-            "id": "4870d4b3b1fda497",
-            "type": "leaf",
-            "state": {
-              "type": "ObsiDOOM Side Panel",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -193,40 +168,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7333b79f870b398e",
+  "active": "b9c3bda604781815",
   "lastOpenFiles": [
-    "1.4.1 Data Types/4- Floating Point and Normalisation.md",
-    "1.4.1 Data Types/7- Characters.md",
-    "1.4.1 Data Types/3- Addition and Subtraction.md",
     "1.4.1 Data Types/0- Data Types - Introduction.md",
-    "1.4.2 Data Structures/1- Arrays, Lists, Tuples, Records, Dictionaries.md",
-    "2.3 Algorithms/2- Binary Search.md",
-    "README.md",
-    "2.3 Algorithms/(Extra) Hash Table (Coding).md",
-    "2.3 Algorithms/3- Bubble Sort.md",
-    "2.3 Algorithms/4- Insertion Sort.md",
-    "2.3 Algorithms/5- Merge Sort.md",
-    "1.4.2 Data Structures/2- Stacks.md",
-    "2.3 Algorithms/9- Big-O-Notation.md",
-    "2.3 Algorithms/1- Linear Search.md",
-    "1.4.2 Data Structures/7- Hash Tables (Theory).md",
-    "2.3 Algorithms/6- Quicksort.md",
-    "2.3 Algorithms/7- Dijkstra's.md",
-    "2.3 Algorithms/8- Astar Algorithm.md",
-    "1.4.1 Data Types/2- Sign+Magnitude 2's Complement.md",
-    "1.4.2 Data Structures/3- Queues.md",
-    "1.4.2 Data Structures/6- Graphs.md",
-    "1.4.2 Data Structures/4- Linked Lists.md",
-    "1.4.2 Data Structures/5- Binary Trees.md",
-    "1.4.1 Data Types/6- Bitwise Manipulation.md",
     "1.4.1 Data Types/5- Floating Point Arithmetic.md",
     "1.4.1 Data Types/1- Number Systems.md",
-    "Untitled.canvas",
-    "Pasted image 20230303104323.png",
-    "2.3 Algorithms",
-    "1.4.1 Data Types",
-    "1.4.2 Data Structures",
-    "Pasted image 20230303104231.png",
-    "Pasted image 20230301131607.png"
+    "2.2 Problem Solving and Programming/Features Of a Problem.md",
+    "1.4.1 Data Types/3- Addition and Subtraction.md",
+    "1.4.1 Data Types/4- Floating Point and Normalisation.md",
+    "1.4.1 Data Types/6- Bitwise Manipulation.md"
   ]
 }
