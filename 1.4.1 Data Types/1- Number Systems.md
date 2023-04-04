@@ -14,5 +14,5 @@
 	- It is much easier for us to read, and much smaller, so it can be efficient for certain representation
 	- It is usable in computing due to the fact that 2^4 = 16, meaning it is relatively easy to transfer back and forth from binary
 
-- One big use for Hexadecimal is in colour, typically we represent different colou
-- rs through an unique identifier, 
+- One big use for Hexadecimal is in colour, typically we represent different colours through an unique identifier, and the number would be way too long if it were presented in Binary
+
