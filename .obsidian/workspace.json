@@ -8,39 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7053544266762829",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "118d5b43ad10e28d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "b9c3bda604781815",
+            "id": "e1d918a9495fef0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.2 Problem Solving and Programming/Features Of a Problem.md",
+                "file": "2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.2 Problem Solving and Programming/Features Of a Problem.md",
+                "file": "2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.2 Problem Solving and Programming/Features Of a Problem.md",
+                "file": "2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.2 Problem Solving and Programming/Features Of a Problem.md"
+                "file": "2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md"
               }
             }
           }
@@ -168,8 +147,19 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "b9c3bda604781815",
+  "active": "e1d918a9495fef0c",
   "lastOpenFiles": [
+    "2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
+    "2.1 Elements Of Computational Thinking/5- Thinking Concurrently.md",
+    "2.1 Elements Of Computational Thinking/4- Thinking Logically.md",
+    "2.1 Elements Of Computational Thinking/3- Thinking Procedureally.md",
+    "2.1 Elements Of Computational Thinking/2- Thinking Ahead.md",
+    "1.4.1 Data Types/2- Sign+Magnitude 2's Complement.md",
+    "2.1 Elements Of Computational Thinking",
+    "1.4.1 Data Types/3- Addition and Subtraction.md",
+    "1.4.1 Data Types/1- Number Systems.md",
+    "1.4.1 Data Types/0- Data Types - Introduction.md",
+    "2.2 Problem Solving and Programming/Features Of a Problem.md",
     "1.4.2 Data Structures/7- Hash Tables (Theory).md",
     "1.4.2 Data Structures/6- Graphs.md",
     "1.4.2 Data Structures/5- Binary Trees.md",
@@ -179,11 +169,6 @@
     "1.4.1 Data Types/7- Characters.md",
     "1.4.1 Data Types/6- Bitwise Manipulation.md",
     "1.4.1 Data Types/5- Floating Point Arithmetic.md",
-    "1.4.1 Data Types/4- Floating Point and Normalisation.md",
-    "1.4.1 Data Types/3- Addition and Subtraction.md",
-    "1.4.1 Data Types/2- Sign+Magnitude 2's Complement.md",
-    "1.4.1 Data Types/0- Data Types - Introduction.md",
-    "1.4.1 Data Types/1- Number Systems.md",
-    "2.2 Problem Solving and Programming/Features Of a Problem.md"
+    "1.4.1 Data Types/4- Floating Point and Normalisation.md"
   ]
 }

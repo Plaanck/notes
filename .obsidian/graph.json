@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:\"2.1 Elements Of Computational Thinking\"",
+      "color": {
+        "a": 1,
+        "rgb": 16737792
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +60,6 @@
   "repelStrength": 7.70833333333333,
   "linkStrength": 0.348958333333333,
   "linkDistance": 243,
-  "scale": 0.45050811767578747,
+  "scale": 0.4505081176757823,
   "close": false
 }
