@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
+                "file": "2.1 Elements Of Computational Thinking/2- Thinking Ahead.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
+                "file": "2.1 Elements Of Computational Thinking/2- Thinking Ahead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
+                "file": "2.1 Elements Of Computational Thinking/2- Thinking Ahead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md"
+                "file": "2.1 Elements Of Computational Thinking/2- Thinking Ahead.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "e1d918a9495fef0c",
   "lastOpenFiles": [
+    "2.1 Elements Of Computational Thinking/2- Thinking Ahead.md",
     "2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
     "2.1 Elements Of Computational Thinking/5- Thinking Concurrently.md",
     "2.1 Elements Of Computational Thinking/4- Thinking Logically.md",
     "2.1 Elements Of Computational Thinking/3- Thinking Procedureally.md",
-    "2.1 Elements Of Computational Thinking/2- Thinking Ahead.md",
     "1.4.1 Data Types/2- Sign+Magnitude 2's Complement.md",
     "2.1 Elements Of Computational Thinking",
     "1.4.1 Data Types/3- Addition and Subtraction.md",
