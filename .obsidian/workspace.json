@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "8234fb5e598f5f08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper 3 - NEA/Choosing A Topic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Paper 3 - NEA/Choosing A Topic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Paper 3 - NEA/Choosing A Topic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Paper 3 - NEA/Choosing A Topic.md"
+              }
             }
           }
         ]
@@ -141,10 +158,10 @@
   },
   "active": "87000673230a5f1d",
   "lastOpenFiles": [
+    "Paper 3 - NEA/Choosing A Topic.md",
     "Paper 1 - Computer Systems",
     "Paper 3 - NEA",
     "3 - NEA Project",
-    "Untitled.md",
     "Paper 2 - Algorithms and Problem Solving",
     "README.md",
     "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/9- Big-O-Notation.md",
@@ -161,15 +178,15 @@
     "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/5- Thinking Concurrently.md",
     "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/4- Thinking Logically.md",
     "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/3- Thinking Procedureally.md",
-    "1.4.1 Data Types/2- Sign+Magnitude 2's Complement.md",
+    "Paper 1 - Computer Systems/1.4.1 Data Types/2- Sign+Magnitude 2's Complement.md",
     "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking",
-    "1.4.1 Data Types/3- Addition and Subtraction.md",
-    "1.4.1 Data Types/1- Number Systems.md",
-    "1.4.1 Data Types/0- Data Types - Introduction.md",
+    "Paper 1 - Computer Systems/1.4.1 Data Types/3- Addition and Subtraction.md",
+    "Paper 1 - Computer Systems/1.4.1 Data Types/1- Number Systems.md",
+    "Paper 1 - Computer Systems/1.4.1 Data Types/0- Data Types - Introduction.md",
     "Paper 2 - Algorithms and Problem Solving/2.2 Problem Solving and Programming/Features Of a Problem.md",
-    "1.4.2 Data Structures/7- Hash Tables (Theory).md",
-    "1.4.2 Data Structures/6- Graphs.md",
-    "1.4.2 Data Structures/5- Binary Trees.md",
-    "1.4.2 Data Structures/4- Linked Lists.md"
+    "Paper 1 - Computer Systems/1.4.2 Data Structures/7- Hash Tables (Theory).md",
+    "Paper 1 - Computer Systems/1.4.2 Data Structures/6- Graphs.md",
+    "Paper 1 - Computer Systems/1.4.2 Data Structures/5- Binary Trees.md",
+    "Paper 1 - Computer Systems/1.4.2 Data Structures/4- Linked Lists.md"
   ]
 }
