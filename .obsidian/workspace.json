@@ -11,12 +11,8 @@
             "id": "e1d918a9495fef0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.1 Elements Of Computational Thinking/2- Thinking Ahead.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.1 Elements Of Computational Thinking/2- Thinking Ahead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.1 Elements Of Computational Thinking/2- Thinking Ahead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2.1 Elements Of Computational Thinking/2- Thinking Ahead.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,28 +139,37 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e1d918a9495fef0c",
+  "active": "87000673230a5f1d",
   "lastOpenFiles": [
-    "2.1 Elements Of Computational Thinking/2- Thinking Ahead.md",
-    "2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
-    "2.1 Elements Of Computational Thinking/5- Thinking Concurrently.md",
-    "2.1 Elements Of Computational Thinking/4- Thinking Logically.md",
-    "2.1 Elements Of Computational Thinking/3- Thinking Procedureally.md",
+    "Paper 1 - Computer Systems",
+    "Paper 3 - NEA",
+    "3 - NEA Project",
+    "Untitled.md",
+    "Paper 2 - Algorithms and Problem Solving",
+    "README.md",
+    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/9- Big-O-Notation.md",
+    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/8- Astar Algorithm.md",
+    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/7- Dijkstra's.md",
+    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/6- Quicksort.md",
+    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/5- Merge Sort.md",
+    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/4- Insertion Sort.md",
+    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/3- Bubble Sort.md",
+    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/1- Linear Search.md",
+    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/2- Binary Search.md",
+    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/2- Thinking Ahead.md",
+    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
+    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/5- Thinking Concurrently.md",
+    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/4- Thinking Logically.md",
+    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/3- Thinking Procedureally.md",
     "1.4.1 Data Types/2- Sign+Magnitude 2's Complement.md",
-    "2.1 Elements Of Computational Thinking",
+    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking",
     "1.4.1 Data Types/3- Addition and Subtraction.md",
     "1.4.1 Data Types/1- Number Systems.md",
     "1.4.1 Data Types/0- Data Types - Introduction.md",
-    "2.2 Problem Solving and Programming/Features Of a Problem.md",
+    "Paper 2 - Algorithms and Problem Solving/2.2 Problem Solving and Programming/Features Of a Problem.md",
     "1.4.2 Data Structures/7- Hash Tables (Theory).md",
     "1.4.2 Data Structures/6- Graphs.md",
     "1.4.2 Data Structures/5- Binary Trees.md",
-    "1.4.2 Data Structures/4- Linked Lists.md",
-    "1.4.2 Data Structures/3- Queues.md",
-    "1.4.2 Data Structures/2- Stacks.md",
-    "1.4.1 Data Types/7- Characters.md",
-    "1.4.1 Data Types/6- Bitwise Manipulation.md",
-    "1.4.1 Data Types/5- Floating Point Arithmetic.md",
-    "1.4.1 Data Types/4- Floating Point and Normalisation.md"
+    "1.4.2 Data Structures/4- Linked Lists.md"
   ]
 }

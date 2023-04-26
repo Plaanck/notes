@@ -9,6 +9,9 @@
 
 - Abstraction is also used when programming, for example, 
 ```
-
-
+x = 5
+y = 6
+print(x+y)
 ```
+- The abstraction here is that x and y are variables, when programming, we are not shown all details to do with what we are making, e.g. we don't need to see what the memory location of all of our variables are, and things are highlighted according to what type of code it is e.g. function, variable etc.
+

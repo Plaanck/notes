@@ -15,7 +15,7 @@
 
 ## Constant - O(1)
 
-- Constant complexity is where an algorithm is ran in purely sequency, so no looping/recursion
+- Constant complexity is where an algorithm is ran in purely sequence, so no looping/recursion
 	- This is the ideal situation in terms of complexity, as it is the fasted for the computer to run, however most algorithms that have a constant complexity will not be able to do very much...
 
 
