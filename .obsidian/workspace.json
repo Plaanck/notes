@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6144e6ae8c156391",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +133,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md"
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md"
               }
+            }
+          },
+          {
+            "id": "feffeb5c11a5c592",
+            "type": "leaf",
+            "state": {
+              "type": "ObsiDOOM Side Panel",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -139,19 +155,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "obsidian-to-notion:Share to notion": false
+      "zk-prefixer:Create new unique note": false
     }
   },
   "active": "b9c3bda604781815",
   "lastOpenFiles": [
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.1 - Structure of the CPU.md",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
+    "Paper 1 - Computer Systems/1.4.2 Data Structures/4- Linked Lists.md",
+    "Paper 1 - Computer Systems/1.4.2 Data Structures/3- Queues.md",
+    "Paper 1 - Computer Systems/1.4.1 Data Types/6- Bitwise Manipulation.md",
+    "Paper 1 - Computer Systems/1.4.1 Data Types/4- Floating Point and Normalisation.md",
+    "Paper 1 - Computer Systems/1.4.2 Data Structures/2- Stacks.md",
+    "Paper 1 - Computer Systems/1.4.2 Data Structures/1- Arrays, Lists, Tuples, Records, Dictionaries.md",
+    "Paper 1 - Computer Systems/1.4.1 Data Types/5- Floating Point Arithmetic.md",
+    "Paper 1 - Computer Systems/1.4.1 Data Types/2- Sign+Magnitude 2's Complement.md",
+    "Untitled.md",
+    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
     "Paper 3 - NEA/Choosing A Topic.md",
     "Paper 3 - NEA",
     "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/9- Big-O-Notation.md",
@@ -167,23 +193,11 @@
     "Paper 2 - Algorithms and Problem Solving/2.2 Problem Solving and Programming/Features Of a Problem.md",
     "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/4- Thinking Logically.md",
     "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/5- Thinking Concurrently.md",
-    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/3- Thinking Procedureally.md",
-    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/2- Thinking Ahead.md",
-    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
     "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms",
     "Paper 2 - Algorithms and Problem Solving/2.2 Problem Solving and Programming",
     "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking",
     "Paper 2 - Algorithms and Problem Solving",
-    "1.4.2 Data Structures/7- Hash Tables (Theory).md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/7- Hash Tables (Theory).md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/6- Graphs.md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/5- Binary Trees.md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/4- Linked Lists.md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/3- Queues.md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/2- Stacks.md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/1- Arrays, Lists, Tuples, Records, Dictionaries.md",
     "Paper 1 - Computer Systems/1.4.2 Data Structures",
-    "Paper 1 - Computer Systems/1.4.1 Data Types/7- Characters.md",
     "Paper 1 - Computer Systems/1.4.1 Data Types",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage",
     "Paper 1 - Computer Systems"
