@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7dff3dde228e8889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.4 - Pipelining.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.3 - CPU Performance.md",
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.4 - Pipelining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.3 - CPU Performance.md",
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.4 - Pipelining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.3 - CPU Performance.md"
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.4 - Pipelining.md"
               }
             }
           },
@@ -189,19 +201,26 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "3d9424b672217e6c",
+  "active": "7dff3dde228e8889",
   "lastOpenFiles": [
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.3 - Multicore Systems + Parallel Processing.md",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.1 - Structure of the CPU.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
-    "Paper 2 - Algorithms and Problem Solving/2.2 Problem Solving and Programming/Features Of a Problem.md",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.4 - Pipelining.md",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.1 - Structure of the CPU.md",
+    "Paper 1 - Computer Systems/1.4.2 Data Structures/7- Hash Tables (Theory).md",
+    "Paper 1 - Computer Systems/1.4.2 Data Structures/6- Graphs.md",
+    "Paper 1 - Computer Systems/1.4.2 Data Structures/5- Binary Trees.md",
+    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/4- Thinking Logically.md",
+    "Paper 1 - Computer Systems/1.4.2 Data Structures/1- Arrays, Lists, Tuples, Records, Dictionaries.md",
+    "Paper 1 - Computer Systems/1.4.1 Data Types/0- Data Types - Introduction.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.3 - CPU Performance.md",
+    "Untitled",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.3 - Multicore Systems + Parallel Processing.md",
+    "Paper 2 - Algorithms and Problem Solving/2.2 Problem Solving and Programming/Features Of a Problem.md",
     "Paper 1 - Computer Systems/1.4.2 Data Structures/4- Linked Lists.md",
     "Paper 1 - Computer Systems/1.4.2 Data Structures/3- Queues.md",
     "Paper 1 - Computer Systems/1.4.1 Data Types/6- Bitwise Manipulation.md",
     "Paper 1 - Computer Systems/1.4.1 Data Types/4- Floating Point and Normalisation.md",
     "Paper 1 - Computer Systems/1.4.2 Data Structures/2- Stacks.md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/1- Arrays, Lists, Tuples, Records, Dictionaries.md",
     "Paper 1 - Computer Systems/1.4.1 Data Types/5- Floating Point Arithmetic.md",
     "Paper 1 - Computer Systems/1.4.1 Data Types/2- Sign+Magnitude 2's Complement.md",
     "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
@@ -212,12 +231,6 @@
     "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/7- Dijkstra's.md",
     "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/5- Merge Sort.md",
     "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/6- Quicksort.md",
-    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/4- Insertion Sort.md",
-    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/3- Bubble Sort.md",
-    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/2- Binary Search.md",
-    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/1- Linear Search.md",
-    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/(Extra) Hash Table (Coding).md",
-    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/4- Thinking Logically.md",
     "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms",
     "Paper 2 - Algorithms and Problem Solving/2.2 Problem Solving and Programming",
     "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking",
