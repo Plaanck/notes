@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.5 - CPU Architecture.md",
+                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/1- Systems Software.md",
                 "mode": "source",
                 "source": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.5 - CPU Architecture.md",
+                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/1- Systems Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.5 - CPU Architecture.md",
+                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/1- Systems Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.5 - CPU Architecture.md"
+                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/1- Systems Software.md"
               }
             }
           },
@@ -328,6 +328,10 @@
   },
   "active": "7a074f5ad98f2598",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Paper 1 - Computer Systems/1.2 Software And Software Development/1- Systems Software.md",
+    "Paper 1 - Computer Systems/1.2 Software And Software Development",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.5 - CPU Architecture.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.3 - GPUs.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.1 - Structure of the CPU.md",
@@ -335,7 +339,6 @@
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.3 - RAM and ROM.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.3 - Multicore Systems + Parallel Processing.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.1 - CISC & RISC.md",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.5 - CPU Architecture.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.3 - CPU Performance.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.4 - Pipelining.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.1 - Input Output and Storage Devices.md",
@@ -350,11 +353,8 @@
     "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/4- Thinking Logically.md",
     "Paper 1 - Computer Systems/1.4.2 Data Structures/1- Arrays, Lists, Tuples, Records, Dictionaries.md",
     "Paper 1 - Computer Systems/1.4.1 Data Types/0- Data Types - Introduction.md",
-    "Untitled",
     "Paper 1 - Computer Systems/1.4.2 Data Structures/4- Linked Lists.md",
     "Paper 1 - Computer Systems/1.4.2 Data Structures/3- Queues.md",
-    "Paper 1 - Computer Systems/1.4.1 Data Types/6- Bitwise Manipulation.md",
-    "Paper 1 - Computer Systems/1.4.1 Data Types/4- Floating Point and Normalisation.md",
     "Paper 3 - NEA",
     "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms",
     "Paper 2 - Algorithms and Problem Solving/2.2 Problem Solving and Programming",
