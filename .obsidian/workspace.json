@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.2 - Storage.md",
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.5 - CPU Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.2 - Storage.md",
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.5 - CPU Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.2 - Storage.md",
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.5 - CPU Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.2 - Storage.md"
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.5 - CPU Architecture.md"
               }
             }
           },
@@ -328,17 +328,17 @@
   },
   "active": "7a074f5ad98f2598",
   "lastOpenFiles": [
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.3 - GPUs.md",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.1 - Structure of the CPU.md",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.2 - Storage.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.3 - RAM and ROM.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.3 - Multicore Systems + Parallel Processing.md",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.3 - GPUs.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.1 - CISC & RISC.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.5 - CPU Architecture.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.3 - CPU Performance.md",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.4 - Pipelining.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.1 - Input Output and Storage Devices.md",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.2 - Storage.md",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.1 - Structure of the CPU.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.4 - Virtual Storage.md",
     "3.1 - Input Output.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/Untitled.md",
