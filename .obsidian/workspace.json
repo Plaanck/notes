@@ -291,14 +291,6 @@
             }
           },
           {
-            "id": "5a2d05d7feb4a29b",
-            "type": "leaf",
-            "state": {
-              "type": "ObsiDOOM Side Panel",
-              "state": {}
-            }
-          },
-          {
             "id": "b5c83d78c9d33669",
             "type": "leaf",
             "state": {
@@ -307,8 +299,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "7bdd8c3a3318dcde",
+            "type": "leaf",
+            "state": {
+              "type": "ObsiDOOM Side Panel",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -326,10 +327,12 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7a074f5ad98f2598",
+  "active": "87000673230a5f1d",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.4 - Virtual Storage.md",
+    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/2- Thinking Ahead.md",
     "Paper 1 - Computer Systems/1.2 Software And Software Development/1- Systems Software.md",
+    "Untitled.md",
     "Paper 1 - Computer Systems/1.2 Software And Software Development",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.5 - CPU Architecture.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.3 - GPUs.md",
@@ -342,7 +345,6 @@
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.3 - CPU Performance.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.4 - Pipelining.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.1 - Input Output and Storage Devices.md",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.4 - Virtual Storage.md",
     "3.1 - Input Output.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/Untitled.md",
     "Paper 1 - Computer Systems/1.4.1 Data Types/1- Number Systems.md",
@@ -354,7 +356,6 @@
     "Paper 1 - Computer Systems/1.4.2 Data Structures/1- Arrays, Lists, Tuples, Records, Dictionaries.md",
     "Paper 1 - Computer Systems/1.4.1 Data Types/0- Data Types - Introduction.md",
     "Paper 1 - Computer Systems/1.4.2 Data Structures/4- Linked Lists.md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/3- Queues.md",
     "Paper 3 - NEA",
     "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms",
     "Paper 2 - Algorithms and Problem Solving/2.2 Problem Solving and Programming",
