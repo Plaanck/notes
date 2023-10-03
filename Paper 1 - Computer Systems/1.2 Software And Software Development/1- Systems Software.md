@@ -61,3 +61,24 @@
 
 - In a computer with more than just one core, then we can have multiple process ready queues.
 - With a MLFQ, different queues can have different priorities, e.g. different Scheduling Algorithms
+
+
+# Types of Operating Systems
+
+
+- Multitasking OS
+	- With general purpose systems, such as phones, computers, we need to be able to run more than one application at the same time, e.g. listening to music while writing on a word document, as the clock shows the time updating, and the antivirus checks for vulnerabilities.
+
+- Distributed OS
+	- In a Distributed computing, the OS controls and coordinates the computers across a network, presenting them to the user as if it were a single system
+
+
+
+# Virtual Machines, Bios, and Device Drives
+
+## BIOS 
+
+- BIOS stands for Basic Input Output System, it is responsible for loading operating systems when the PC is booted, as well as some basic diagnostics, such as the power-on-self test (POST).
+- The BIOS keeps track of many of the important information about the hardware of the pc, such as fan speed, temperature etc.
+- The bootstrap is used to load the OS kernel into memory, where at this point the OS can take over the rest and boot everything else
+	- The initial start up instructions are stored in the ROM, and the BIOS settings are stored in flash memory, so it can be changed while also being retained.
