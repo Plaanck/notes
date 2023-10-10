@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/1- Systems Software.md",
+                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/2 - Application Generation.md",
                 "mode": "source",
                 "source": false
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/1- Systems Software.md",
+                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/2 - Application Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/1- Systems Software.md",
+                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/2 - Application Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +286,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/1- Systems Software.md"
+                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/2 - Application Generation.md"
               }
             }
           },
@@ -329,6 +329,7 @@
   },
   "active": "7a074f5ad98f2598",
   "lastOpenFiles": [
+    "Paper 1 - Computer Systems/1.2 Software And Software Development/2 - Application Generation.md",
     "Paper 1 - Computer Systems/1.2 Software And Software Development/1- Systems Software.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.4 - Virtual Storage.md",
@@ -355,7 +356,6 @@
     "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/4- Thinking Logically.md",
     "Paper 1 - Computer Systems/1.4.2 Data Structures/1- Arrays, Lists, Tuples, Records, Dictionaries.md",
     "Paper 1 - Computer Systems/1.4.1 Data Types/0- Data Types - Introduction.md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/4- Linked Lists.md",
     "Paper 3 - NEA",
     "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms",
     "Paper 2 - Algorithms and Problem Solving/2.2 Problem Solving and Programming",

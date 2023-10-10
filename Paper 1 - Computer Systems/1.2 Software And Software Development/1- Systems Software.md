@@ -5,6 +5,23 @@
 	- Multitasking is where you can have more that one program running at the same time. 
 	- What a single core multitasking system does, is allocate a small amount of time to each process, and switch between them at a speed that we don't notice the gaps in-between.
 
+- Another example is File handling, 
+	- The OS can present your files in an organised structure, with names, and showing you the extensions of your files, as well as allowing you to rename and move them.
+
+- Another example is User Management
+	- This allows many users to log into the same computer.
+	- The OS will be able to retain settings for each user, and have different access rights to files and programs.
+
+- A big feature of GUI style OS's is WIMP, meaning
+	- Windows
+	- Icons
+	- Menus
+	- Pointers
+- This the most common style of modern Operating Systems, but other styles include:
+	- Command Line Interface: No menus or pointers, just a command prompt
+	- Menu Interface: Shows menus, which allow you to select the different options, but still no pointer or icons etc.
+
+
 # Memory Management
 
 - There are two types of memory management
