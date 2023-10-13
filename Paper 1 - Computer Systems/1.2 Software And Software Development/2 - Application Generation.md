@@ -30,3 +30,72 @@ There are a few different types of translators, but the main idea behind them is
 ## Interpreter
 
 - Interpreters process the script, line by line, during the runtime. This means that as the code is run, it will proceed with running the script until there is an error, meaning that it can output data, and then stop running due to an error.
+
+# Stages of Compilation
+
+- High level languages are designed to be easy for us, the programmer to read, making it close to English.
+- Processors cannot run source code like that, computers can only process binary, so we need to turn high level languages to machine code, through a compiler.
+
+- There are 4 Stages of Compilation:
+	1) Lexical Analysis
+	2) Syntax Analysis
+	3) Code Generation
+	4) Code Optimisation
+
+## Lexical Analysis
+
+- The lexer starts by converting lexemes in the source code into a series of tokens.
+- As the lexer reads the source code, it is scanned letter by letter
+- When white space, an operator, or a special symbol is found, it decides that a word (lexeme) is complete.
+- It then checks if that lexeme is valid, by using a predefined set of rules that allow every lexeme to be identified as a valid token
+- Keywords, constants, identifiers, strings, operators and punctuation symbols are all considered tokens.
+
+- In summary, In Lexical Analysis:
+	- Comments and white space is removed
+	- Remaining code is turned into a series of tokens
+	- Symbol Table is created to keep track of variables and subroutines
+
+## Syntax Analysis
+
+***FINISH THE REST OF THE NOTES FOR EACH STEP***
+
+
+
+
+
+- In summary, in Syntax Analysis:
+	- Abstract syntax tree is built from tokens produced in the previous stages.
+	- Errors generated if any tokens break the rules of the language.
+
+
+
+
+
+
+
+## Code Generation
+
+
+
+
+
+- In summary, in Code Generation:
+	- Abstract code tree converted to object code
+	- Object code is the machine cod produced before the final step (linker) is run.
+
+
+## Optimisation
+
+
+
+
+
+- In summary, in Optimisation:
+	- Tweaks the code, so that it will run as quickly, and use as little memory as possible.
+
+
+
+
+
+
+
