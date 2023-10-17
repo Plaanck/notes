@@ -170,9 +170,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "005eea6bb0d26ec2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/1- Systems Software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c75df9e47b140ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/3 - Software Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -246,7 +270,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/2 - Application Generation.md",
+                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/3 - Software Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/2 - Application Generation.md",
+                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/3 - Software Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,7 +310,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/2 - Application Generation.md"
+                "file": "Paper 1 - Computer Systems/1.2 Software And Software Development/3 - Software Development.md"
               }
             }
           },
@@ -327,14 +351,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "7a074f5ad98f2598",
+  "active": "9c75df9e47b140ff",
   "lastOpenFiles": [
-    "Paper 1 - Computer Systems/1.2 Software And Software Development/2 - Application Generation.md",
     "Paper 1 - Computer Systems/1.2 Software And Software Development/1- Systems Software.md",
+    "Paper 1 - Computer Systems/1.2 Software And Software Development/3 - Software Development.md",
+    "Paper 1 - Computer Systems/1.2 Software And Software Development/3 - Software Development",
+    "Paper 1 - Computer Systems/1.2 Software And Software Development/2 - Application Generation.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.4 - Virtual Storage.md",
     "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/2- Thinking Ahead.md",
-    "Untitled.md",
     "Paper 1 - Computer Systems/1.2 Software And Software Development",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.5 - CPU Architecture.md",
     "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.3 - GPUs.md",
@@ -355,7 +380,6 @@
     "Paper 1 - Computer Systems/1.4.2 Data Structures/5- Binary Trees.md",
     "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/4- Thinking Logically.md",
     "Paper 1 - Computer Systems/1.4.2 Data Structures/1- Arrays, Lists, Tuples, Records, Dictionaries.md",
-    "Paper 1 - Computer Systems/1.4.1 Data Types/0- Data Types - Introduction.md",
     "Paper 3 - NEA",
     "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms",
     "Paper 2 - Algorithms and Problem Solving/2.2 Problem Solving and Programming",
@@ -363,7 +387,6 @@
     "Paper 2 - Algorithms and Problem Solving",
     "Paper 1 - Computer Systems/1.4.2 Data Structures",
     "Paper 1 - Computer Systems/1.4.1 Data Types",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage",
-    "Paper 1 - Computer Systems"
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage"
   ]
 }

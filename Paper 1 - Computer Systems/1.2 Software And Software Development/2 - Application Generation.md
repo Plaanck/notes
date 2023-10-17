@@ -23,6 +23,10 @@
 
 There are a few different types of translators, but the main idea behind them is to break down code into machine code so that it can be properly processed by the computer.
 
+## Assembler 
+
+- Convert assembly code to machine code
+
 ## Compiler
 
 - Compilers take the entire script, and processes it in one go, making one executable file, meaning that if there is a mistake in the code, the file will not run when opened.
@@ -94,7 +98,26 @@ There are a few different types of translators, but the main idea behind them is
 	- Tweaks the code, so that it will run as quickly, and use as little memory as possible.
 
 
+# Linkers and Loaders
 
+- A library is a ready compiled and tested program that can be run when needed
+	- E.G. the built-in Math library in Python
+
+- Windows uses Dynamic Link Libraries (DLL), which contain sub-routines written to complete a commonly used task on the operating system.
+	- E.G. Save As
+
+- The pros of using library routines are
+	- It is quick and easy to connect to your own code
+	- Pre-tested, so there will be pretty much no errors
+	- Pre-compiled, so they are quite optimised
+- The cons are
+	- Adding functionality / tweaks can be difficult / impossible
+	- Sometimes you are "black boxed" from the actual implementation
+	- You have to trust the developers will continue to maintain the library
+
+## Linkers
+
+- The Linker is responsible for putting the appropriate machine addresses in
 
 
 
