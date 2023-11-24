@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 13893887
       }
+    },
+    {
+      "query": "path:\"Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": false,
@@ -63,10 +70,10 @@
   "nodeSizeMultiplier": 1.7078125,
   "lineSizeMultiplier": 1.27395833333333,
   "collapse-forces": false,
-  "centerStrength": 0.177083333333333,
+  "centerStrength": 0.411458333333333,
   "repelStrength": 13.4375,
-  "linkStrength": 0.78125,
+  "linkStrength": 0.942708333333333,
   "linkDistance": 162,
-  "scale": 0.05932617187500004,
+  "scale": 0.22920135941749345,
   "close": false
 }
