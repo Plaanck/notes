@@ -201,7 +201,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing/4 - Hashing.md",
+                "file": "Paper 1 - Computer Systems/1.3.2 - Databases/1 - Intro to Databases.md",
                 "mode": "source",
                 "source": false
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing/4 - Hashing.md",
+                "file": "Paper 1 - Computer Systems/1.3.2 - Databases/1 - Intro to Databases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing/4 - Hashing.md",
+                "file": "Paper 1 - Computer Systems/1.3.2 - Databases/1 - Intro to Databases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -322,7 +322,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing/4 - Hashing.md"
+                "file": "Paper 1 - Computer Systems/1.3.2 - Databases/1 - Intro to Databases.md"
               }
             }
           },
@@ -363,43 +363,43 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "3630593e9475085d",
+  "active": "87000673230a5f1d",
   "lastOpenFiles": [
-    "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing/4 - Hashing.md",
-    "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing/3 - Encryption.md",
-    "Untitled",
-    "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing/2 - Run Length Encoding.md",
-    "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing/1 - Lossy vs Lossless Compression.md",
+    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/7- Dijkstra's.md",
+    "Paper 1 - Computer Systems/1.3.2 - Databases/1 - Intro to Databases.md",
     "Untitled.md",
-    "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing",
-    "Paper 1 - Computer Systems/1.2 Software And Software Development/4 - Types Of Programming Language.md",
-    "Paper 1 - Computer Systems/1.2 Software And Software Development/3 - Software Development.md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/7- Hash Tables (Theory).md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/6- Graphs.md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/5- Binary Trees.md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/4- Linked Lists.md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/3- Queues.md",
+    "Paper 1 - Computer Systems/1.3.2 - Databases",
+    "Paper 1 - Computer Systems/1.4.3 - Boolean Algebra/5 - D Type Flip Flops, Half and Full Adders.md",
+    "Biology.md",
+    "Paper 1 - Computer Systems/1.4.3 - Boolean Algebra/3 - Boolean Algebra.md",
+    "Paper 1 - Computer Systems/1.4.3 - Boolean Algebra",
+    "Paper 1 - Computer Systems/1.4.1 Data Types/0- Data Types - Introduction.md",
+    "Paper 1 - Computer Systems/1.4.1 Data Types/1- Number Systems.md",
+    "Paper 1 - Computer Systems/1.4.1 Data Types/2- Sign+Magnitude 2's Complement.md",
+    "Paper 1 - Computer Systems/1.4.1 Data Types/3- Addition and Subtraction.md",
+    "Paper 1 - Computer Systems/1.4.1 Data Types/4- Floating Point and Normalisation.md",
+    "Paper 1 - Computer Systems/1.4.1 Data Types/5- Floating Point Arithmetic.md",
+    "Paper 1 - Computer Systems/1.4.1 Data Types/6- Bitwise Manipulation.md",
+    "Paper 1 - Computer Systems/1.4.1 Data Types/7- Characters.md",
+    "Paper 1 - Computer Systems/1.4.2 Data Structures/1- Arrays, Lists, Tuples, Records, Dictionaries.md",
     "Paper 1 - Computer Systems/1.4.2 Data Structures/2- Stacks.md",
-    "Paper 1 - Computer Systems/1.2 Software And Software Development/1- Systems Software.md",
+    "Paper 1 - Computer Systems/1.4.2 Data Structures/3- Queues.md",
+    "Paper 1 - Computer Systems/1.4.2 Data Structures/5- Binary Trees.md",
+    "Paper 1 - Computer Systems/1.4.2 Data Structures/6- Graphs.md",
+    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/1- Linear Search.md",
+    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/2- Binary Search.md",
+    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/4- Insertion Sort.md",
+    "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing/2 - Run Length Encoding.md",
+    "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing/3 - Encryption.md",
+    "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing/4 - Hashing.md",
+    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/3- Bubble Sort.md",
+    "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing",
     "Paper 1 - Computer Systems/1.2 Software And Software Development/3 - Software Development",
-    "Paper 1 - Computer Systems/1.2 Software And Software Development/2 - Application Generation.md",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.4 - Virtual Storage.md",
-    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/2- Thinking Ahead.md",
     "Paper 1 - Computer Systems/1.2 Software And Software Development",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.5 - CPU Architecture.md",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.3 - GPUs.md",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.1 - Structure of the CPU.md",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.2 - Storage.md",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.3 - RAM and ROM.md",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.3 - Multicore Systems + Parallel Processing.md",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.1 - CISC & RISC.md",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.3 - CPU Performance.md",
     "Paper 3 - NEA",
     "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms",
     "Paper 2 - Algorithms and Problem Solving/2.2 Problem Solving and Programming",
     "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking",
-    "Paper 2 - Algorithms and Problem Solving",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures"
+    "Paper 2 - Algorithms and Problem Solving"
   ]
 }
