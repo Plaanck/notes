@@ -85,10 +85,24 @@
 
 - Multitasking OS
 	- With general purpose systems, such as phones, computers, we need to be able to run more than one application at the same time, e.g. listening to music while writing on a word document, as the clock shows the time updating, and the antivirus checks for vulnerabilities.
+	- Each active program is allocated a small time slice of processing 
+
+- Multi-user OS
+	- An operating system that allows multiple people to use a computer at the same time, commonly found in schools or work.
+	- The OS manages the user's access levels and security clearance when they log on.
+	- Server OS will handle the requests of multiple users using different computers at the same time.
 
 - Distributed OS
-	- In a Distributed computing, the OS controls and coordinates the computers across a network, presenting them to the user as if it were a single system
+	- In a distributed computing, the OS controls and coordinates the computers across a network, presenting them to the user as if it were a single system
+	- For example, Online shopping sites may use this technique, your basket could be handled by one machine, but the machine handling queries made to the website could be completely different, but it is presented to you as if they are one machine.
 
+- Embedded OS
+	- Embedded OS's are made for a specific purpose, for example a washing machine's OS does not need to have access to the internet or have a graphical user interface. 
+	- Instead, they are built to complete the simple task that they are for, using as little processing power as well, with maximum efficiency, using very little memory.
+
+- Real Time OS
+	-  In safety critical environments, e.g. aircraft autopilot, self drive cars or even missile systems, processes need to be guaranteed to be processed within a given time frame.
+	- These often require a lot of capacity in memory and storage, as you cannot risk the OS being overloaded, and not being able to cope with the volume of tasks. As such, real time operating systems hardly ever run at full capacity.
 
 
 # Virtual Machines, Bios, and Device Drives

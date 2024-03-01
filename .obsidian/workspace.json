@@ -213,14 +213,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Normalisation.md",
+                "file": "Paper 1 - Computer Systems/1.3.3 - Wired and Wireless Networks/1 - Network Characteristics And Protocols.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b2fd1cc07bf1a57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5583766c1a21d070",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.3 - GPUs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -294,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - Normalisation.md",
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.3 - GPUs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -311,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - Normalisation.md",
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.3 - GPUs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -334,7 +358,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - Normalisation.md"
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.3 - GPUs.md"
               }
             }
           },
@@ -344,7 +368,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -357,7 +383,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -375,43 +401,43 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "92704d2b0e8ecf18",
+  "active": "5583766c1a21d070",
   "lastOpenFiles": [
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
-    "3 - Normalisation.md",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.1 - CISC & RISC.md",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.5 - CPU Architecture.md",
+    "Paper 2 - Algorithms and Problem Solving/2.2 Problem Solving and Programming/Features Of a Problem.md",
+    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/8- Astar Algorithm.md",
     "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/7- Dijkstra's.md",
+    "Paper 1 - Computer Systems/1.3.3 - Wired and Wireless Networks/1 - Network Characteristics And Protocols.md",
+    "Paper 1 - Computer Systems/1.3.3 - Wired and Wireless Networks/2 - Network Hardware.md",
+    "Paper 1 - Computer Systems/1.3.3 - Wired and Wireless Networks/5 - Network Security.md",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.3 - GPUs.md",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/2.3 - Multicore Systems + Parallel Processing.md",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.1 - Input Output and Storage Devices.md",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.2 - Storage.md",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.1 - Structure of the CPU.md",
+    "Paper 1 - Computer Systems/1.2 Software And Software Development/3 - Software Development.md",
+    "Paper 1 - Computer Systems/1.2 Software And Software Development/1- Systems Software.md",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.3 - RAM and ROM.md",
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.4 - Virtual Storage.md",
+    "Paper 1 - Computer Systems/1.2 Software And Software Development/2 - Application Generation.md",
     "Paper 1 - Computer Systems/1.3.2 - Databases/1 - Intro to Databases.md",
-    "Paper 1 - Computer Systems/1.3.2 - Databases",
-    "Paper 1 - Computer Systems/1.4.3 - Boolean Algebra/5 - D Type Flip Flops, Half and Full Adders.md",
-    "Biology.md",
-    "Paper 1 - Computer Systems/1.4.3 - Boolean Algebra/3 - Boolean Algebra.md",
-    "Paper 1 - Computer Systems/1.4.3 - Boolean Algebra",
-    "Paper 1 - Computer Systems/1.4.1 Data Types/0- Data Types - Introduction.md",
+    "Paper 1 - Computer Systems/1.2 Software And Software Development/4 - Types Of Programming Language.md",
     "Paper 1 - Computer Systems/1.4.1 Data Types/1- Number Systems.md",
     "Paper 1 - Computer Systems/1.4.1 Data Types/2- Sign+Magnitude 2's Complement.md",
     "Paper 1 - Computer Systems/1.4.1 Data Types/3- Addition and Subtraction.md",
     "Paper 1 - Computer Systems/1.4.1 Data Types/4- Floating Point and Normalisation.md",
     "Paper 1 - Computer Systems/1.4.1 Data Types/5- Floating Point Arithmetic.md",
-    "Paper 1 - Computer Systems/1.4.1 Data Types/6- Bitwise Manipulation.md",
-    "Paper 1 - Computer Systems/1.4.1 Data Types/7- Characters.md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/1- Arrays, Lists, Tuples, Records, Dictionaries.md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/2- Stacks.md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/3- Queues.md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/5- Binary Trees.md",
-    "Paper 1 - Computer Systems/1.4.2 Data Structures/6- Graphs.md",
-    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/1- Linear Search.md",
-    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/2- Binary Search.md",
-    "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms/4- Insertion Sort.md",
-    "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing/2 - Run Length Encoding.md",
-    "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing/3 - Encryption.md",
-    "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing/4 - Hashing.md",
+    "Paper 1 - Computer Systems/1.3.3 - Wired and Wireless Networks",
+    "Paper 1 - Computer Systems/1.3.2 - Databases",
+    "Paper 1 - Computer Systems/1.4.3 - Boolean Algebra",
     "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing",
     "Paper 1 - Computer Systems/1.2 Software And Software Development/3 - Software Development",
     "Paper 1 - Computer Systems/1.2 Software And Software Development",
     "Paper 3 - NEA",
     "Paper 2 - Algorithms and Problem Solving/2.3 Algorithms",
     "Paper 2 - Algorithms and Problem Solving/2.2 Problem Solving and Programming",
-    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking",
-    "Paper 2 - Algorithms and Problem Solving"
+    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking"
   ]
 }
