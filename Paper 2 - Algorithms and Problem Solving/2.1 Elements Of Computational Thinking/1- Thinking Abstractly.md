@@ -5,7 +5,7 @@
 
 >	A good example of abstraction in our day-to-day lives is maps, as we remove some details, e.g. it is not a satellite image of the land, and adds certain features such as the location of Points Of Interest
 - 
-	- For example, Satnav is not a hyperrealistic copy of the area you are in, it is a simplified view of the roads in the area.
+	- For example, Satnav is not a hyper-realistic copy of the area you are in, it is a simplified view of the roads in the area.
 
 - Abstraction is also used when programming, for example, 
 ```

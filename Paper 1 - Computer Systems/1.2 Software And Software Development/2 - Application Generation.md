@@ -85,16 +85,16 @@ There are a few different types of translators, but the main idea behind them is
 
 - In summary, in Code Generation:
 	- Abstract code tree converted to object code
-	- Object code is the machine cod produced before the final step (linker) is run.
+	- Object code is the machine code produced before the final step (linker) is run.
 
 
-## Optimisation
+## Optimization
 
 
 
 
 
-- In summary, in Optimisation:
+- In summary, in Optimization:
 	- Tweaks the code, so that it will run as quickly, and use as little memory as possible.
 
 
@@ -117,8 +117,15 @@ There are a few different types of translators, but the main idea behind them is
 
 ## Linkers
 
-- The Linker is responsible for putting the appropriate machine addresses in
+- The Linker is responsible for putting the appropriate machine addresses in all the external call and return instructions, so that all external library routines are linked together correctly.
+- There are two methods to pull in the library that the code needs:
+	- ***Static Linking***: All required code required from libraries are added into finished machine code, resulting in a large executable file.
+	- ***Dynamic Linking***: Compiled versions of the libraries are stored on the host computer, and links in the required code from the libraries during runtime, cutting down on the file size.
+		- This can cause issues if the libraries change, however, as routines may be called incorrectly.
 
 
+## Loaders 
 
+- The loader is the part of the OS that loads the EXE file into memory, ready to be run
+	- When using Dynamic Linking it also handles loading the required libraries into memory
 
