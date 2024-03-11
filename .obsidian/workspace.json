@@ -237,7 +237,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -318,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,7 +358,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md"
+                "file": "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.2 - Fetch Decode Execute Cycle.md"
               }
             }
           },
@@ -403,9 +403,10 @@
   },
   "active": "5583766c1a21d070",
   "lastOpenFiles": [
+    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/1.1 - Structure of the CPU.md",
+    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
     "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/3- Thinking Procedureally.md",
     "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/2- Thinking Ahead.md",
-    "Paper 2 - Algorithms and Problem Solving/2.1 Elements Of Computational Thinking/1- Thinking Abstractly.md",
     "Paper 2 - Algorithms and Problem Solving/2.2 Problem Solving and Programming/Features Of a Problem.md",
     "Paper 3 - NEA/Choosing A Topic.md",
     "Paper 1 - Computer Systems/1 - Compression, Encryption and Hashing/4 - Hashing.md",
@@ -428,7 +429,6 @@
     "Paper 1 - Computer Systems/1.3.3 - Wired and Wireless Networks/1 - Network Characteristics And Protocols.md",
     "Paper 1 - Computer Systems/1.3.3 - Wired and Wireless Networks/2 - Network Hardware.md",
     "Paper 1 - Computer Systems/1.3.3 - Wired and Wireless Networks/5 - Network Security.md",
-    "Paper 1 - Computer Systems/1.1 CPU, IO Devices, Storage/3.2 - Storage.md",
     "Paper 1 - Computer Systems/1.3.3 - Wired and Wireless Networks",
     "Paper 1 - Computer Systems/1.3.2 - Databases",
     "Paper 1 - Computer Systems/1.4.3 - Boolean Algebra",
